@@ -67,13 +67,6 @@ li{
     font-family: times new roman;
 }
 
-/* design for tablets */
-@media(max-width:768px){
-    body{
-        background-color: lightslategrey;
-    }
-}
-
 /*design for mobile */
 @media(max-width:320px){
     body{
@@ -85,6 +78,20 @@ li{
 @media(max-width:2000px){
     body{
         background-color: lightpink;
+    }
+}
+
+/* design for tablets */
+@media(max-width:768px){
+    body{
+        background-color: lightslategrey;
+    }
+}
+
+/*design for mobile */
+@media(max-width:320px){
+    body{
+        background-color: lightgreen;
     }
 }
 
