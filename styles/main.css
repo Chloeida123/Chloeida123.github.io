@@ -67,10 +67,10 @@ li{
     font-family: times new roman;
 }
 
-/*design for mobile */
-@media(max-width:320px){
+/*design for desktop */
+@media(max-width:2000px){
     body{
-        background-color: lightpink;
+        background-color: skyblue;
     }
 }
 
@@ -81,10 +81,10 @@ li{
     }
 }
 
-/*design for desktop */
-@media(max-width:2000px){
+/*design for mobile */
+@media(max-width:320px){
     body{
-        background-color: skyblue;
+        background-color: lightpink;
     }
 }
 
