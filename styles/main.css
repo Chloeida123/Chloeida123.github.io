@@ -70,12 +70,12 @@ li{
 /*design for mobile */
 @media(max-width:320px){
     body{
-        background-color: lightgreen;
+        background-color: lightskyblue;
     }
 }
 
 /*design for desktop */
-@media(max-width:2000px){
+@media(max-width:2000px min-width:){
     body{
         background-color: lightpink;
     }
@@ -84,14 +84,14 @@ li{
 /* design for tablets */
 @media(max-width:768px){
     body{
-        background-color: lightslategrey;
+        background-color: lightgoldenrodyellow;
     }
 }
 
 /*design for mobile */
 @media(max-width:320px){
     body{
-        background-color: lightgreen;
+        background-color: skyblue;
     }
 }
 
