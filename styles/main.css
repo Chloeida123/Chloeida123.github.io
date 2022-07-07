@@ -74,13 +74,6 @@ li{
     }
 }
 
-/*design for desktop */
-@media(max-width:2000px min-width:){
-    body{
-        background-color: lightpink;
-    }
-}
-
 /* design for tablets */
 @media(max-width:768px){
     body{
@@ -88,8 +81,8 @@ li{
     }
 }
 
-/*design for mobile */
-@media(max-width:320px){
+/*design for desktop */
+@media(max-width:2000px){
     body{
         background-color: skyblue;
     }
